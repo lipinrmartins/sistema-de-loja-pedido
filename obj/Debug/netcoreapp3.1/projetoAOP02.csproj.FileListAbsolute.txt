@@ -1,0 +1,14 @@
+C:\Users\user\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.exe
+C:\Users\user\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.deps.json
+C:\Users\user\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.runtimeconfig.json
+C:\Users\user\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.runtimeconfig.dev.json
+C:\Users\user\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.dll
+C:\Users\user\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.pdb
+C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.csproj.AssemblyReference.cache
+C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.AssemblyInfoInputs.cache
+C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.AssemblyInfo.cs
+C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.csproj.CoreCompileInputs.cache
+C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.dll
+C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.pdb
+C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.genruntimeconfig.cache
