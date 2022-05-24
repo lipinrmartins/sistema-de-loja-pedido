@@ -7,7 +7,7 @@ namespace projetoAOP02
         static void Main(string[] args)
         {
             Loja minhaloja = new Loja();
-            minhaloja.inciar();
+            minhaloja.iniciar();
         }
     }
 }

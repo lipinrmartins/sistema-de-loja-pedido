@@ -8,7 +8,7 @@ namespace projetoAOP02
         public List<Pedido> listaPedidos;
         private int qtdPedido;
 
-        public void inciar()
+        public void iniciar()
         {
             this.qtdPedido = 0;
             listaPedidos = new List<Pedido>();

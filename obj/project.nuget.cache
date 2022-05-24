@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qYum/Umd1cU8QI3MPViMtwhaewwK0YMHXUPp++eKbnBTzC/KRPgunBhMCeVYRMbCCpVWaESBCosn2nRcSYqm3w==",
+  "dgSpecHash": "6ZRTnQEC1dU8cj+lCRMWau+z6XQ/ums8O0uhPae0NxQpk91i+PLAxSWEf/ZEu4QUmUOEwAWr6tgtn1bkVs05Og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\projetoAOP02\\projetoAOP02.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\UVV - Analise e Desenvolvimento de Sistemas\\2022.1 - Programação Orientada a Objeto\\Atividade AOP2 - Sistema de Pedidos\\projetoAOP02\\projetoAOP02.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

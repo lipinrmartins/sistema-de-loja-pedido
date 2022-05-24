@@ -12,3 +12,17 @@ C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.csproj.CoreCompi
 C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.dll
 C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.pdb
 C:\Users\user\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.genruntimeconfig.cache
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.exe
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.deps.json
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.runtimeconfig.json
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.runtimeconfig.dev.json
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.dll
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\bin\Debug\netcoreapp3.1\projetoAOP02.pdb
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.csproj.AssemblyReference.cache
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.GeneratedMSBuildEditorConfig.editorconfig
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.AssemblyInfoInputs.cache
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.AssemblyInfo.cs
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.csproj.CoreCompileInputs.cache
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.dll
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.pdb
+D:\UVV - Analise e Desenvolvimento de Sistemas\2022.1 - Programação Orientada a Objeto\Atividade AOP2 - Sistema de Pedidos\projetoAOP02\obj\Debug\netcoreapp3.1\projetoAOP02.genruntimeconfig.cache

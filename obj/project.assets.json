@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\projetoAOP02\\projetoAOP02.csproj",
+      "projectUniqueName": "D:\\UVV - Analise e Desenvolvimento de Sistemas\\2022.1 - Programação Orientada a Objeto\\Atividade AOP2 - Sistema de Pedidos\\projetoAOP02\\projetoAOP02.csproj",
       "projectName": "projetoAOP02",
-      "projectPath": "C:\\Users\\user\\projetoAOP02\\projetoAOP02.csproj",
+      "projectPath": "D:\\UVV - Analise e Desenvolvimento de Sistemas\\2022.1 - Programação Orientada a Objeto\\Atividade AOP2 - Sistema de Pedidos\\projetoAOP02\\projetoAOP02.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\projetoAOP02\\obj\\",
+      "outputPath": "D:\\UVV - Analise e Desenvolvimento de Sistemas\\2022.1 - Programação Orientada a Objeto\\Atividade AOP2 - Sistema de Pedidos\\projetoAOP02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,16 +60,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.25, 3.1.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
