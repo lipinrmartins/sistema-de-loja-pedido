@@ -8,7 +8,7 @@ namespace projetoAOP02
 
         public float descontoMenor(float valorDoProduto)
         {
-            return valorDoProduto*DESCONTO;
+            return valorDoProduto - (valorDoProduto*DESCONTO);
         }
     }
 }
